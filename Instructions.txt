@@ -1,0 +1,4 @@
+1 scraped data using selenium.
+2 performed preprocessing in jupyter notebook.
+3 name of variables in py file may be little different but corrected in excel.
+
